@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+.content {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #000000;
+    color: #ffffff;
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+/*     background-image: url(img/northern-lights.jpg);
+ */}
+.description, .nav {
+    position: absolute;
+}
